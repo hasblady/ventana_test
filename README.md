@@ -51,5 +51,5 @@ Mediante un Combobox se selecciona el color de la lista, hay un panel encima del
 
 ## 1.2 Objetivos del proyecto
 Visualización de panel pintado del color seleccionado
-
+![Logo](https://github.com/hasblady/ventana_test/blob/main/logo_git.PNG)
 ## Nombre: Hasblady Gonzalez Engativa
